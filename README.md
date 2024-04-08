@@ -1,2 +1,2 @@
-# Landing-Page.github.io
+# LandingPage
 Codeway intership project
